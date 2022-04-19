@@ -1,0 +1,29 @@
+.heading { 
+    margin: 0px ;
+    font-size: 25px;
+    width: 100%;
+    box-shadow: 10px 10px 10px rgb(0, 52, 93);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.note{
+    font-size: 15px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.footer{
+  bottom: 0px;
+  background-color: rgb(136, 219, 255);
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  line-height: 3;
+  font-size: 25px;
+  font-family: 'Send Flowers', cursive;
+  color:rgb(0, 123, 206);
+  font-weight: bolder;
+}
+canvas{
+  border-radius: 5px;
+  border-style: ridge;
+  border-color: #00637e;
+}
